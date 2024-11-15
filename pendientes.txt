@@ -1,0 +1,3 @@
+
+cerrar sesion pagina principal
+si no es admin quitar vista de administradores
